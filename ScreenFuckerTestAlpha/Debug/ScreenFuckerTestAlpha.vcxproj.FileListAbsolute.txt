@@ -1,2 +1,0 @@
-D:\Code\ScreenFuckerTestAlpha\ScreenFuckerTestAlpha\Debug\ScreenFuckerTestAlpha.exe
-D:\Code\ScreenFuckerTestAlpha\ScreenFuckerTestAlpha\Debug\ScreenFuckerTestAlpha.pdb
