@@ -1,0 +1,9 @@
+#pragma once
+#include "framework.h"
+#include "ScreenFuckerTestAlpha.h"
+#include <windows.h>
+#include <tlhelp32.h>
+#include <shlwapi.h>
+#include <psapi.h>
+#include <commctrl.h>
+#include "resource.h"
