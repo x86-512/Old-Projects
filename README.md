@@ -1,2 +1,1 @@
-Note: 
-For certain reasons, I cannot include all of my old projects on here (either because they had a lot of profanity in them or they were fan-made games that I cannot legally distribute)
+This is aa library of my old projects that I found on my hard drive. I decided to upload certain "projects" to this repository.
